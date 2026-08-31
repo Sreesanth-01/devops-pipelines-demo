@@ -1,0 +1,2 @@
+console.log("Hello");
+console.log("Learning CI/CD with GitHub Actions");
